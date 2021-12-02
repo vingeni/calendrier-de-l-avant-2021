@@ -1,0 +1,12 @@
+$ ./d2-1.awk < input
+forward 1868
+down 2063
+up 973
+multiply: 2036120
+
+$ ./d2-2.awk < input
+forward 1868
+down 2063
+depth 1078987
+up 973
+multiply: 2015547716
