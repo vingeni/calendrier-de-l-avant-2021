@@ -13,7 +13,7 @@ for line in myinput:
     i = int(line)
     l.append(i)
     l = l[-3:]
-    if (len(l) != 3):
+    if (len(l) < 3):
         continue
     s = sum(l)
     if (prev != None and prev < s):
