@@ -1,0 +1,6 @@
+$ awk -f d3-1.awk < input
+gamma:3349 epsilon:746 result:2498354
+vincent@obelix:~/work/adventofcode/d03$ python3 d3-2.py
+oxygen: 3921
+co2: 836
+multiply: 3277956
