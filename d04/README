@@ -1,0 +1,35 @@
+$ python3 d4_1.py
+calling number 14
+calling number 30
+[...]
+calling number 54
+calling number 32
+calling number 17
+[[34, -11, 81, 75, 42],
+ [27, -68, 59, 20, 87],
+ [45, -18, 46, 23, 76],
+ [40, -5, -78, 25, 96],
+ [-19, -9, -89, 53, -33]]
+sum unmarked:  829
+called:  17
+mul:  14093
+
+
+$ python3 d4_2.py
+calling number 14
+calling number 30
+calling number 18
+[...]
+calling number 22
+calling number 89
+one board left...
+calling number 74
+calling number 36
+[[91, 51, 90, -94, -7],
+ [-78, 35, 13, -51, -18],
+ [-90, -76, -58, -40, -37],
+ [-93, -65, 56, -21, 78],
+ [-13, -81, -35, 69, -10]]
+sum unmarked:  483
+called:  36
+mul:  17388
