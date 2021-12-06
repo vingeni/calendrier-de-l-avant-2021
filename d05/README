@@ -1,0 +1,5 @@
+$ python3 d5_1.py
+override: 5
+
+$ python3 d5_2.py
+override: 20666
